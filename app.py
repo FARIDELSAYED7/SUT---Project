@@ -1,2 +1,1 @@
-# Test Code
-x = input("Enter a number: ")
+print("Hello, World!")
